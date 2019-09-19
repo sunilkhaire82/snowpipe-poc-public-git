@@ -19,8 +19,3 @@ cs.execute("USE WAREHOUSE <warehouse>")
 
 cs.execute('USE SCHEMA DEMO_DB.PUBLIC')
 
-git init
-git add --all
-git commit -m "first commit"
-git remote add origin https://github.com/sunilkhaire82/snowpipe-poc-public-git.git
-git push -u origin master
